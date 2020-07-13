@@ -19,3 +19,6 @@ body{background-color: silver;cursor:pointer;}
       #display{background-color:blue;border-radius:7px 7px 7px 7px;border:thin solid black;color: white; height:40px ;margin-right:2px;margin:10px;width: 480px;margin-bottom: 0px;}
       ll{background-color: black;color: white;}
       #date{background: black;height: 55px;width:200px;float: right;border-radius: 7px 7px 7px 7px;color: white;}
+      a:link{color:black}
+      a:visited{color:white}
+      a:hover{color:silver}
